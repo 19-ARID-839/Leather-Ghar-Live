@@ -1,0 +1,173 @@
+.main {
+  padding-left: 20%;
+  padding-right: 20%;
+  background-color: rgb(24, 46, 73);
+}
+.main-container-top {
+  display: flex;
+}
+
+.main-container-2 a {
+  text-decoration: none;
+  color: #ffffff;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+  font-style: normal;
+  line-height: 1.6;
+  padding: 15px;
+}
+.main-container-2 {
+  display: flex;
+}
+
+.container1 {
+  color: #ffffff;
+  font-family: Montserrat, Bold;
+  font-size: 22px;
+  width: 50%;
+  margin-top: 7%;
+}
+/* Second mian container that include navtoptext and navitem */
+.container2 {
+  color: white;
+  width: 50%;
+}
+.container2 p {
+  font-size: 11px;
+}
+/* First sub-container of  Conatiner 2 */
+.navtoptext {
+  padding-top: 30px;
+  display: flex;
+  justify-content: end;
+}
+/* Second sub-container of  Conatiner 2 */
+.navitem {
+  display: flex;
+  justify-content: end;
+  padding-top: 3%;
+  
+}
+.navbar-toggler-icon {
+  color: white;
+  padding-bottom: 20px;
+}
+
+/* Corusal                      mckckmck */
+.courasal {
+  /* margin: 2.5% 14% 2.5% 14%; */
+  margin-left:14% ;
+  margin-right: 14%;
+  margin-top: 4%;
+  margin-bottom: 6%;
+}
+/*  */
+/*  */
+.Small-main {
+  background-color: rgb(24, 46, 73);
+  color: white;
+}
+.scontainer-1 {
+  text-align: center;
+  padding-top: 7%;
+}
+.scontainer-2 {
+  text-align: center;
+  padding-top: 3%;
+  font-size: 11px;
+}
+
+
+.a {
+  background-color: rgb(24, 46, 73);
+}
+.brr {
+  border: none ;
+  background-color: rgb(24, 46, 73);
+  color: white;
+}
+
+/*  */
+/*  */
+.main-product-2{
+    display: flex;
+   
+    padding-top: 6%;
+    padding-bottom: 6%
+}
+.main-product-2-part1 {
+  width: 50%;
+  padding-left: 6%;
+  ;
+}
+.product-2-title {
+  font-family: Montserrat, Medium, Bold;
+  font-size: 17px;
+  color: #000000;
+}
+.product-2-description {
+  font-family: Montserrat, Medium;
+  font-size: 15px;
+  line-height: 1.5rem;
+  color:#585858 ;
+}
+.main-product-2-part2{
+    width: 50%;
+    padding-right: 6%;
+    margin: auto;
+}
+.row{
+  padding-top: 6%  ;
+  padding-right: 6%;
+  padding-left: 6%;
+  padding-bottom: 6%;
+}
+
+.product-1-title{
+  font-family: Montserrat, Bold;
+  font-size: 17px;
+  line-height: 1.59rem;
+}
+.product-1-price{
+  font-family: Montserrat, Bold;
+  font-size: 22px;
+  font-size: 1.969rem;
+}
+.imgsd{
+  height: 320px;
+  width: 330px;
+  align-items: center;
+}
+.cart{
+  max-width: 35%;
+  padding-top: 3%;
+  display: flex;
+  flex-direction: column;
+}
+.adv{
+  margin-top: 2%;
+}
+.product-2-button{
+  width: 35%;
+}
+.me-2 {
+  background-color: #0f243d;
+
+}
+.ah{
+  background-color: #0f243d;
+}
+.toggle{
+  /* background-color: rgb(24, 46, 70); */
+  
+  box-shadow: none !important;
+  width: 15%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+  
+}
+.er{
+  color: #ffffff;
+}

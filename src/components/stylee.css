@@ -6,7 +6,6 @@
 .main-container-top {
   display: flex;
 }
-
 .main-container-2 a {
   text-decoration: none;
   color: #ffffff;
@@ -47,7 +46,6 @@
   display: flex;
   justify-content: end;
   padding-top: 3%;
-  
 }
 .navbar-toggler-icon {
   color: white;
@@ -57,7 +55,7 @@
 /* Corusal                      mckckmck */
 .courasal {
   /* margin: 2.5% 14% 2.5% 14%; */
-  margin-left:14% ;
+  margin-left: 14%;
   margin-right: 14%;
   margin-top: 4%;
   margin-bottom: 6%;
@@ -78,28 +76,26 @@
   font-size: 11px;
 }
 
-
 .a {
   background-color: rgb(24, 46, 73);
 }
 .brr {
-  border: none ;
+  border: none;
   background-color: rgb(24, 46, 73);
   color: white;
 }
 
 /*  */
 /*  */
-.main-product-2{
-    display: flex;
-   
-    padding-top: 6%;
-    padding-bottom: 6%
+.main-product-2 {
+  display: flex;
+
+  padding-top: 6%;
+  padding-bottom: 6%;
 }
 .main-product-2-part1 {
   width: 50%;
   padding-left: 6%;
-  ;
 }
 .product-2-title {
   font-family: Montserrat, Medium, Bold;
@@ -110,64 +106,65 @@
   font-family: Montserrat, Medium;
   font-size: 15px;
   line-height: 1.5rem;
-  color:#585858 ;
+  color: #585858;
 }
-.main-product-2-part2{
-    width: 50%;
-    padding-right: 6%;
-    margin: auto;
+.main-product-2-part2 {
+  width: 50%;
+  padding-right: 6%;
+  margin: auto;
 }
-.row{
-  padding-top: 6%  ;
+.row {
+  padding-top: 6%;
   padding-right: 6%;
   padding-left: 6%;
   padding-bottom: 6%;
 }
 
-.product-1-title{
+.product-1-title {
   font-family: Montserrat, Bold;
   font-size: 17px;
   line-height: 1.59rem;
 }
-.product-1-price{
+.product-1-price {
   font-family: Montserrat, Bold;
   font-size: 22px;
   font-size: 1.969rem;
 }
-.imgsd{
+.imgsd {
   height: 320px;
   width: 330px;
   align-items: center;
 }
-.cart{
+.cart {
   max-width: 35%;
   padding-top: 3%;
   display: flex;
   flex-direction: column;
 }
-.adv{
+.adv {
   margin-top: 2%;
 }
-.product-2-button{
+.product-2-button {
   width: 35%;
 }
 .me-2 {
   background-color: #0f243d;
-
 }
-.ah{
+.ah {
   background-color: #0f243d;
 }
-.toggle{
+.toggle {
   /* background-color: rgb(24, 46, 70); */
-  
+  color: #ffffff;
   box-shadow: none !important;
   width: 15%;
   padding-top: 0%;
   padding-bottom: 0%;
   margin-bottom: 0%;
-  
 }
-.er{
+.er {
   color: #ffffff;
+}
+.white-button {
+  background-color: white;
 }
